@@ -1,0 +1,3 @@
+[submodule "yolo-nas-ros"]
+	path = yolo-nas-ros
+	url = https://github.com/Alaaeldinn/yolo-nas-ros.git
