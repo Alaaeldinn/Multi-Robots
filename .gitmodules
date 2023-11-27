@@ -7,3 +7,6 @@
 [submodule "MiDaS"]
 	path = MiDaS
 	url = https://github.com/isl-org/MiDaS.git
+[submodule "RPLidar_Hector_SLAM"]
+	path = RPLidar_Hector_SLAM
+	url = https://github.com/NickL77/RPLidar_Hector_SLAM.git
