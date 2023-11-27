@@ -4,3 +4,6 @@
 [submodule "esp32node-ros"]
 	path = esp32node-ros
 	url = https://github.com/Alaaeldinn/esp32node-ros.git
+[submodule "MiDaS"]
+	path = MiDaS
+	url = https://github.com/isl-org/MiDaS.git
