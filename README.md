@@ -25,3 +25,14 @@ Beyond ground robotics, our project seamlessly integrates multiple path planning
 ## 🤝 Flexibility and Scalability:
 
 Our achievement lies in designing a system that supports the adaptability and scalability of robotic teams. We've successfully incorporated mini-robots to explore environments that a mobile robot alone can't access.
+
+
+## Installation 
+
+```bash
+git clone https://github.com/Alaaeldinn/Multi-Robots.git
+```
+
+
+
+
