@@ -19,3 +19,6 @@
 [submodule "ego-planner"]
 	path = ego-planner
 	url = https://github.com/ZJU-FAST-Lab/ego-planner.git
+[submodule "JetControl"]
+	path = JetControl
+	url = https://github.com/Alaaeldinn/JetControl.git
