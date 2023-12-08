@@ -30,7 +30,7 @@ Our achievement lies in designing a system that supports the adaptability and sc
 ## Installation 
 
 ```bash
-git clone https://github.com/Alaaeldinn/Multi-Robots.git
+git clone --recursive https://github.com/Alaaeldinn/Multi-Robots.git
 ```
 
 
