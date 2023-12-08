@@ -12,7 +12,7 @@ The integration of an Automated Guided Vehicle (AGV) and a Tello drone showcases
 
 ## 🤖 Robot Localization and Mapping:
 
-We've implemented HECTOR SLAM on real-time LIDAR data for precise robot localization and mapping. Additionally, we've utilized RTAB Mapping on ZED2I Camera and ORB-SLAM3 on Tello drone for comprehensive mapping capabilities.
+Implemented HECTOR SLAM on real-time LIDAR data for precise robot localization and mapping. Additionally, we've utilized RTAB Mapping on ZED2I Camera and ORB-SLAM3 on Tello drone for comprehensive mapping capabilities.
 
 ## 👁️ Object Detection and Depth Estimation:
 
