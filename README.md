@@ -6,7 +6,7 @@
 
 In our fast-paced world, integrating multi-robot systems, including mobile robots and drones, is increasingly vital. Our project focuses on leveraging L-SLAM and V-SLAM methodologies to achieve groundbreaking outcomes in exploring and mapping unknown environments.
 
-![Alt Text]([media/demo.gif](https://drive.google.com/file/d/1JsZGpk_KsZ4Fb6GHUwXWY9cuPLEVSf24/view?usp=sharing))
+![Alt Text](https://drive.google.com/file/d/1JsZGpk_KsZ4Fb6GHUwXWY9cuPLEVSf24/view?usp=sharing)
 
 
 ## 🏗️ Integration of AGV and Tello Drone:
