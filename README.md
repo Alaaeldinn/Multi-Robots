@@ -8,7 +8,7 @@ In our fast-paced world, integrating multi-robot systems, including mobile robot
 
 
 <p align="center">
-  <img src="media/demo-2.gif" width="500" loading="lazy">
+  <img src="media/demo-2.gif" width="600" loading="lazy">
 </p>
 
 
