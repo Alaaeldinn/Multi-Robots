@@ -9,6 +9,8 @@ In our fast-paced world, integrating multi-robot systems, including mobile robot
 
 <p float="left">
   <img src="https://github.com/Alaaeldinn/Multi-Robots/blob/main/Untitled%20design(1).gif?raw=true" width="300" />
+</p>
+<p float="right>
   <img src="[https://github.com/Alaaeldinn/Multi-Robots/blob/main/your-second-gif.gif?raw=true](https://github.com/Alaaeldinn/Multi-Robots/blob/main/Untitled%20design(2).gif?raw=true)" width="300" />
 </p>
 
