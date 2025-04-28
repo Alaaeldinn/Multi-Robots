@@ -7,7 +7,7 @@
 In our fast-paced world, integrating multi-robot systems, including mobile robots and drones, is increasingly vital. Our project focuses on leveraging L-SLAM and V-SLAM methodologies to achieve groundbreaking outcomes in exploring and mapping unknown environments.
 
 
-![Alt Text](media/demo.mp4) 
+![Mobile Robot](Untitled design(1).gif) 
 
 
 
