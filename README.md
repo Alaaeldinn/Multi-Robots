@@ -7,7 +7,10 @@
 In our fast-paced world, integrating multi-robot systems, including mobile robots and drones, is increasingly vital. Our project focuses on leveraging L-SLAM and V-SLAM methodologies to achieve groundbreaking outcomes in exploring and mapping unknown environments.
 
 
-![Mobile Robot](https://github.com/Alaaeldinn/Multi-Robots/blob/main/Untitled%20design(1).gif?raw=true)
+<p float="left">
+  <img src="https://github.com/Alaaeldinn/Multi-Robots/blob/main/Untitled%20design(1).gif?raw=true" width="300" />
+  <img src="[https://github.com/Alaaeldinn/Multi-Robots/blob/main/your-second-gif.gif?raw=true](https://github.com/Alaaeldinn/Multi-Robots/blob/main/Untitled%20design(2).gif?raw=true)" width="300" />
+</p>
 
 
 
